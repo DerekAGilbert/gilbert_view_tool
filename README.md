@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install gilbert_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+GilbertViewTool::Renderer.copyright 'Derek Gilbert', 'All Rights Reserved'
+```
 
 ## Development
 
